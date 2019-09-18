@@ -98,4 +98,33 @@ print(t)
 Sample Output
 ```
 
+Given the following 9x9 grid:
+
+OXOOXOXOX
+XOXXXXXXX
+XOXXXXXXX
+XOXXXXXXX
+XXXXXOXXX
+XOXXXOXXX
+XXXOXXXXX
+XXXOXXXXX
+XXXOXXXXX
+
+Your marbles are at the following locations in row column major:
+[(0, 0), (0, 2), (0, 3), (0, 5), (0, 7), (1, 1), (2, 1), (3, 1), (4, 5), (5, 1), (5, 5), (6, 3), (7, 3), (8, 3)]
+
+```
+
+```
+Given the following 5x5 grid:
+
+OXOOX
+XOXXX
+XXXXX
+XOXXX
+XXXXO
+
+Your marbles are at the following locations in row column major:
+[(0, 0), (0, 2), (0, 3), (1, 1), (3, 1), (4, 4)]
+
 ```
