@@ -42,6 +42,10 @@ list and the number of marbles found back to the user with a witty message such 
 
 ### Sample Output
 ```
+Enter A String of X's and O's: XXOOXOXOXOXOXXXXOO
+Your Marbles are at the following indices:
+LOCATIONS> [2, 3, 5, 7, 9, 11, 16, 17]
+
 ```
 
 # But Wait!
